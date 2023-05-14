@@ -1,0 +1,10 @@
+:root {
+  --primary-color: rgb(221, 248, 250);
+  --seconday-color: rgb(246, 177, 41);
+}
+body {
+  background: var(--primary-color);
+}
+h1, h2 {
+  color: var(--seconday-color);
+}
